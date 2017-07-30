@@ -17,3 +17,6 @@
 
 ### Databases
 - [[RUS] Основы репликации в MySQL](https://habrahabr.ru/post/56702/)
+
+### Books
+- [[RUS] Hexlet.io](https://map.hexlet.io/pages/books)
