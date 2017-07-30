@@ -20,3 +20,6 @@
 
 ### Books
 - [[RUS] Hexlet.io](https://map.hexlet.io/pages/books)
+
+### Highload
+- [[RUS] Продуманная оптимизация](http://optimization.guide/)
