@@ -4,6 +4,7 @@
   - [An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
 
 ### JavaScript
+- [JavaScript Style Guide](https://github.com/airbnb/javascript)
 - **Karma**
   - [How to Run Karma Tests in a Docker Container](https://dzone.com/articles/how-to-run-karma-tests-in-a-docker-container)
 
