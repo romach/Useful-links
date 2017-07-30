@@ -13,3 +13,6 @@
 ### DigitalOcean
 - **Firewall**
   - [Cloud Firewalls: Secure Droplets by Default](https://blog.digitalocean.com/cloud-firewalls-secure-droplets-by-default/)
+
+### Databases
+- [[RUS] Основы репликации в MySQL](https://habrahabr.ru/post/56702/)
