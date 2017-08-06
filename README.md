@@ -26,3 +26,7 @@
 
 ### Highload
 - [[RUS] Продуманная оптимизация](http://optimization.guide/)
+
+### Code exercises
+- [checkio.org](checkio.org)
+- [codility.com](codility.com)
