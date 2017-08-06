@@ -11,6 +11,10 @@
 ### CSS
 - [Learn CSS Layout](http://learnlayout.com/)
 
+### HTML
+#### Cources
+- [[RUS] WebReference.ru](https://webref.ru/)
+
 ### Docker
 - [Using Docker Native Health Checks](https://ryaneschinger.com/blog/using-docker-native-health-checks/)
 
