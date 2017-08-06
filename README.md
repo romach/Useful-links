@@ -5,6 +5,7 @@
 
 ### JavaScript
 - [JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/)
 - **Karma**
   - [How to Run Karma Tests in a Docker Container](https://dzone.com/articles/how-to-run-karma-tests-in-a-docker-container)
 
