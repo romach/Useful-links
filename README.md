@@ -29,6 +29,7 @@
 
 ### Databases
 - [[RUS] Основы репликации в MySQL](https://habrahabr.ru/post/56702/)
+- [Getting Started With MySQL Replication for High Availability](https://dzone.com/articles/getting-started-with-mysql-replication-for-high-av?edition=305100&utm_source=Spotlight&utm_medium=email&utm_campaign=database%202017-06-16)
 
 ### Books
 - [[RUS] Hexlet.io](https://map.hexlet.io/pages/books)
