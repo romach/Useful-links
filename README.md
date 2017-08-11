@@ -21,6 +21,8 @@
 - [Can I use](http://caniuse.com)
     
     "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+ 
+- [Pingy CLI](https://pin.gy/cli/) - The Simple Frontend Build Tool
 
 #### Cources
 - [[RUS] WebReference.ru](https://webref.ru/)
