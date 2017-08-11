@@ -11,6 +11,7 @@
 
 ### CSS
 - [Learn CSS Layout](http://learnlayout.com/)
+- [[RUS] Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 
 ### HTML
 - [MarkSheet](http://marksheet.io)
