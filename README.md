@@ -47,3 +47,6 @@
 ### Code exercises
 - [checkio.org](checkio.org)
 - [codility.com](codility.com)
+
+### Code quality
+- [SonarCloud](https://about.sonarcloud.io/)
