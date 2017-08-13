@@ -36,6 +36,9 @@
 #### Cources
 - [[RUS] WebReference.ru](https://webref.ru/)
 
+### Git
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - gives brief, visual reference for the most common commands in git.
+
 ### Docker
 - [Using Docker Native Health Checks](https://ryaneschinger.com/blog/using-docker-native-health-checks/)
 
