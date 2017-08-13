@@ -2,6 +2,11 @@
 ### Java
 - **Concurrency**
   - [An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
+- **Conferences**
+  - [JUG UA](http://jug.ua/)
+  - [JPoint](https://jpoint.ru/en/)
+  - [Joker](https://jokerconf.com/en/)
+  - [JBreak](https://2017.jbreak.ru//en/)
 
 ### JavaScript
 - [JavaScript Style Guide](https://github.com/airbnb/javascript)
