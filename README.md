@@ -54,3 +54,6 @@
 
 ### Code quality
 - [SonarCloud](https://about.sonarcloud.io/)
+
+### QA
+- [Russian Professional Network for Testers](http://fixber.com/)
