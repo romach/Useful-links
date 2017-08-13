@@ -56,4 +56,4 @@
 - [SonarCloud](https://about.sonarcloud.io/)
 
 ### QA
-- [Russian Professional Network for Testers](http://fixber.com/)
+- [Fixber](http://fixber.com/) - russian Professional Network for Testers
