@@ -4,6 +4,8 @@
   - [An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
 - **Spring Framework**
   - http://www.naturalprogrammer.com/
+  - [Speeding up Spring integration tests](http://www.nurkiewicz.com/2010/12/speeding-up-spring-integration-tests.html)
+
 - **Conferences**
   - [JUG UA](http://jug.ua/)
   - [JPoint](https://jpoint.ru/en/)
