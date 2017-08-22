@@ -2,6 +2,8 @@
 ### Java
 - **Concurrency**
   - [An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
+- **Spring Framework**
+  - http://www.naturalprogrammer.com/
 - **Conferences**
   - [JUG UA](http://jug.ua/)
   - [JPoint](https://jpoint.ru/en/)
