@@ -59,6 +59,7 @@
 ### Code exercises
 - [checkio.org](checkio.org)
 - [codility.com](codility.com)
+- [SoloLearn](https://www.sololearn.com/)
 
 ### Code quality
 - [SonarCloud](https://about.sonarcloud.io/)
