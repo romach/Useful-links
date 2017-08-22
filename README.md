@@ -62,6 +62,7 @@
 - [checkio.org](checkio.org)
 - [codility.com](codility.com)
 - [SoloLearn](https://www.sololearn.com/)
+- http://exercism.io/
 
 ### Code quality
 - [SonarCloud](https://about.sonarcloud.io/)
