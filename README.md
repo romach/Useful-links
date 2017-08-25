@@ -83,3 +83,6 @@
 
 ### Podcasts
 - [The Cloudcast](http://www.thecloudcast.net/)
+
+### Algorithms
+- [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation.
