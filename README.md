@@ -78,3 +78,6 @@
 
 ### QA
 - [Fixber](http://fixber.com/) - russian Professional Network for Testers
+
+### Podcasts
+- [The Cloudcast](http://www.thecloudcast.net/)
