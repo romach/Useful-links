@@ -6,6 +6,8 @@
   - http://www.naturalprogrammer.com/
   - [Speeding up Spring integration tests](http://www.nurkiewicz.com/2010/12/speeding-up-spring-integration-tests.html)
   - [Reuse spring application context across junit test classes](https://stackoverflow.com/questions/8501975/reuse-spring-application-context-across-junit-test-classes)
+- **Thymeleaf**
+  - [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)
 
 - **Conferences**
   - [JUG UA](http://jug.ua/)
