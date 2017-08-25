@@ -16,6 +16,7 @@
   - [Joker](https://jokerconf.com/en/)
   - [JBreak](https://2017.jbreak.ru//en/)
   - [Frameworks Days](https://frameworksdays.com/page/about)
+  - [XP Injection](http://xpinjection.com/)
 
 ### JavaScript
 - [JavaScript Style Guide](https://github.com/airbnb/javascript)
