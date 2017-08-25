@@ -61,6 +61,7 @@
 
 ### Books
 - [[RUS] Hexlet.io](https://map.hexlet.io/pages/books)
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/ref=zg_bs_3839_1)
 
 ### Highload
 - [[RUS] Продуманная оптимизация](http://optimization.guide/)
