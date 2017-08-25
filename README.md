@@ -1,5 +1,6 @@
 ## Useful-links
 ### Java
+- [Java & Internet Glossary](http://mindprod.com/jgloss/jgloss.html)
 - **Concurrency**
   - [An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
 - **Spring Framework**
