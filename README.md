@@ -49,6 +49,7 @@
 
 ### Docker
 - [Using Docker Native Health Checks](https://ryaneschinger.com/blog/using-docker-native-health-checks/)
+- [How to build Continuous Delivery Pipelines for Spring Boot applications with Docker](https://prezi.com/-cmu8a-tl3pj/how-to-build-continuous-delivery-pipelines-for-spring-boot-applications-with-docker/)
 
 ### DigitalOcean
 - **Firewall**
