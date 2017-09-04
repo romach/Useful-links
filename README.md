@@ -102,3 +102,7 @@
 - http://www.baeldung.com/
 - [[RUS] Every day matters](http://larrr.com/)
 - http://winterbe.com/
+
+### Conferences
+- [[RUS] Soft-Labs](http://www.soft-labs.net/ru/)
+- [JPoint](https://jpoint.ru/en/)
