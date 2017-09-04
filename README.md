@@ -29,6 +29,7 @@
 ### CSS
 - [Learn CSS Layout](http://learnlayout.com/)
 - [[RUS] Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+- [CSS Diner](http://flukeout.github.io/)
 
 #### Bootstrap
 - [Bootstrap Studio](https://bootstrapstudio.io/)
