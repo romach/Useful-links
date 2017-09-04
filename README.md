@@ -93,6 +93,7 @@
 
 ### Podcasts
 - [The Cloudcast](http://www.thecloudcast.net/)
+- [[RUS] http://razbor-poletov.com/](http://razbor-poletov.com/)
 
 ### Algorithms
 - [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation.
