@@ -30,6 +30,7 @@
 - [Learn CSS Layout](http://learnlayout.com/)
 - [[RUS] Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [CSS Diner](http://flukeout.github.io/)
+- http://cssreference.io/
 
 #### Bootstrap
 - [Bootstrap Studio](https://bootstrapstudio.io/)
@@ -44,6 +45,7 @@
     "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
  
 - [Pingy CLI](https://pin.gy/cli/) - The Simple Frontend Build Tool
+- http://htmlreference.io/
 
 #### Cources
 - [[RUS] WebReference.ru](https://webref.ru/)
