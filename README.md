@@ -88,3 +88,9 @@
 
 ### Algorithms
 - [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation.
+
+### Blogs
+- http://tutorials.jenkov.com/
+- http://www.baeldung.com/
+- [[RUS] Every day matters](http://larrr.com/)
+- http://winterbe.com/
