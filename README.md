@@ -76,6 +76,14 @@
 - [codility.com](codility.com)
 - [SoloLearn](https://www.sololearn.com/)
 - http://exercism.io/
+- https://projecteuler.net/
+- www.hackerrank.com
+- http://leetcode.com
+- www.codechef.com
+- http://www.programmr.com
+- http://coderbyte.com
+- www.hackerearth.com
+- www.codingame.com
 
 ### Code quality
 - [SonarCloud](https://about.sonarcloud.io/)
